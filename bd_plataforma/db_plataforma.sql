@@ -30,8 +30,7 @@ CREATE TABLE carro
 
 CREATE TABLE aluguel 
 ( 
- codigo_aluguel INT NOT NULL AUTO_INCREMENT PRIMARY KEY,    
- data DATE NOT NULL,  
+ codigo_aluguel INT NOT NULL AUTO_INCREMENT PRIMARY KEY,      
  descricao VARCHAR(200) NOT NULL,
  codigoCarro INT NOT NULL,
  codigoCliente INT NOT NULL,
