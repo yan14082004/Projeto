@@ -37,7 +37,7 @@ CREATE TABLE aluguel
  FOREIGN KEY (codigoCarro)
  REFERENCES carro(codigo_carro),
  FOREIGN KEY (codigoCliente)
- REFERENCES cliente(codigo_cliente)
+ REFERENCES login(codigo_login)
 );
 
 
