@@ -50,7 +50,7 @@
 				<!--LINKS-->
 				<ul id="nav-links">
 					<li><a href="<?php echo $_SESSION['url']."/cliente/alugar/alugar.php";?>" class="links" id="link2">aluguel</a></li>
-					<li><a href="<?php echo $_SESSION['url']."/sair.php";?>" class="links" id="link4">sair</a></li>
+					<li><a href="<?php echo $_SESSION['url'];?>" class="links" id="link4">sair</a></li>
 				</ul>
 			</nav>
 			<div class="nome_completo_login" ><label><?php echo "Olá! ".$_SESSION['nome_completo_login'];?></label></div>
