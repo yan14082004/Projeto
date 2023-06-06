@@ -44,7 +44,7 @@
 	<title>Plataforma correr</title>
 
 	<!-- ARQUIVO DE ESTILOS DO PORTAL -->
-	<link rel="stylesheet" type="text/css" href="<?php echo $_SESSION['url']."/css/menuAdmin.css";?>">
+	<link rel="stylesheet" type="text/css" href="../../css/menuAdmin.css">
 
 	<script>
 
