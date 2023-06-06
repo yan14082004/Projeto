@@ -40,7 +40,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plataforma correr</title>
 
-    <link rel="stylesheet" type="text/css" href="<?php echo $_SESSION['url']."/css/menuCliente.css";?>">
+    <link rel="stylesheet" type="text/css" href="../../css/menuCliente.css">
 </head>
 <body>
     <div class="caixa_maior">
