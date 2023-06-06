@@ -116,7 +116,7 @@
                         </a>
                     </li>
                     <li class="list"class="list">
-                        <a href="<?php echo $_SESSION['url']."/sair.php";?>">
+                        <a href="<?php echo $_SESSION['url'];?>">
                             <span class="icon"><ion-icon name="log-out-outline"></ion-icon></ion-icon></span>
                             <span class="title">Sair</span>
                         </a>
