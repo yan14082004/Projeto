@@ -1,9 +1,9 @@
 <?php //session_start();
 
-	$servidor = "localhost";
-	$usuario = "root";
-	$senha = "";
-	$db_name = "db_correr.com";
+	$servidor = "sql9.freemysqlhosting.net";
+	$usuario = "sql9624102";
+	$senha = "Ztvk8LUqDm";
+	$db_name = "sql9624102";
 	
 	$conexao = mysqli_connect($servidor, $usuario, $senha, $db_name) or die('Banco de dados indisponível.');
 	
