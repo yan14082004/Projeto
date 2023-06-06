@@ -109,7 +109,7 @@ opacity: 0.5;
 
             <div><label>Descrição:</label></div>	
 
-            <div><input type="text" id="nome_curso" name="descricao" placeholder="descreva.." required autofocus></div>
+            <div><input type="text" id="nome_curso" name="descricao" value="Pagamento a definir em nossa loja" readonly></div>
 
 			<div><label>Modelo carro:</label></div>	
 
