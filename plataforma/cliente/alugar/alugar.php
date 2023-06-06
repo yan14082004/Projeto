@@ -34,7 +34,7 @@ session_start();
     }	
 
         
-    $sql = mysqli_query($conexao, "SELECT * FROM carro WHERE codigo_carro");
+    $sql = mysqli_query($conexao, "SELECT * FROM carro WHERE descricao_carro = 'DISPONÍVEL'");
                     
         
     if (mysqli_num_rows($sql) > 0) {
