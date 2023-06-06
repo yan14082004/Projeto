@@ -15,6 +15,6 @@
 
 	$url_admin = "https://projeto-dev-web-1pcc.onrender.com/plataforma/admin";
 
-	$url_cliente = "https://projeto-dev-web-1pcc.onrender.com/2plataforma/cliente";
+	$url_cliente = "https://projeto-dev-web-1pcc.onrender.com/plataforma/cliente";
 
 ?>
