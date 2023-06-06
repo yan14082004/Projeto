@@ -9,7 +9,7 @@
 
 		echo "<script> alert ('ERRO: É NECESSÁRIO FAZER LOGIN');</script>";
 		
-		echo "<script> window.location.href='http://localhost/plataforma';</script>";
+		echo "<script> window.location.href='https://projeto-dev-web-1pcc.onrender.com/plataforma/';</script>";
 
 	}	
 
@@ -26,7 +26,7 @@
 		unset ($_SESSION['url_admin']);
 		unset ($_SESSION['url_cliente']);
 
-		echo "<script> window.location.href='http://localhost/plataforma';</script>";				
+		echo "<script> window.location.href='https://projeto-dev-web-1pcc.onrender.com/plataforma/';</script>";				
 
 	} 
 ?>
