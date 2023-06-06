@@ -11,10 +11,10 @@
 	
 	$host_ip = $_SERVER['HTTP_HOST'];
 	
-	$url = "http://".$host_ip."/plataforma";
+	$url = "https://projeto-dev-web-1pcc.onrender.com/plataforma";
 
-	$url_admin = "http://".$host_ip."/plataforma/admin";
+	$url_admin = "https://projeto-dev-web-1pcc.onrender.com/plataforma/admin";
 
-	$url_cliente = "http://".$host_ip."/plataforma/cliente";
+	$url_cliente = "https://projeto-dev-web-1pcc.onrender.com/2plataforma/cliente";
 
 ?>
