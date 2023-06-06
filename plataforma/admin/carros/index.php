@@ -130,7 +130,7 @@ opacity: 0.5;
 
 							<div><select name="descricao_carro" style="color: #5d5d5d">
 								
-								<option>DISPONÍVEL</option>
+								<option>DISPONIVEL</option>
 								<option>ALUGADO</option>
 							
 							</select></div>
