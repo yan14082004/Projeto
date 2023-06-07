@@ -142,7 +142,7 @@
 								
 								<option><?php echo $dados_carro['descricao_carro'];?></option>
 
-								<option>DISPONÍVEL</option>
+								<option>DISPONIVEL</option>
 							
 							</select></div>
 
